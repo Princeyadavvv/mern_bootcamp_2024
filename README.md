@@ -2,7 +2,7 @@
 
 ## Git & GitHub
 
-- Intro to Git & Branches
+- Intro to Git  & Branches
 - Working with GitHub
 - Basic Git commands
 - Creating first PR
